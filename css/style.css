@@ -1,9 +1,9 @@
 /*
-  Theme Name: Bespoke - Creative One Page HTML5 Template 
+  Theme Name: Bespoke - Creative One Page HTML5 Template
   Theme URL: http://nasfactor.com/themes/bespoke/
   Author: nasirwd
   Author URI: http://nasfactor.com/
-  Description: Bespoke - Creative One Page HTML5 Template 
+  Description: Bespoke - Creative One Page HTML5 Template
   Version: 1.0
 */
 /*=======================================================================
@@ -111,8 +111,8 @@
     position: absolute;
     right: auto;
     top: -4px;
-    width: 0; 
-    height: 0; 
+    width: 0;
+    height: 0;
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
     border-bottom: 5px solid #fff;
@@ -239,9 +239,9 @@
     color: #999999;
     font-weight: 900;
 }
-.slider .tp-bullets.simplebullets.round .bullet:hover, 
-.slider .tp-bullets.simplebullets.round .bullet.selected, 
-.slider .tp-bullets.simplebullets.navbar .bullet:hover, 
+.slider .tp-bullets.simplebullets.round .bullet:hover,
+.slider .tp-bullets.simplebullets.round .bullet.selected,
+.slider .tp-bullets.simplebullets.navbar .bullet:hover,
 .slider .tp-bullets.simplebullets.navbar .bullet.selected {
     color: #fff;
 }
@@ -345,18 +345,18 @@
 }
 .aboutTop{
     padding-top: 163px;
-    padding-bottom: 230px;
+    padding-bottom: 120px;
     background: #1d1d1d url(../images/bg/1.jpg) no-repeat scroll center center/cover;
 }
 .aboutBottom{
     background: #c40661;
-    background: -moz-linear-gradient(0deg, #36146a 0%, #9A0A65 50%, #ff0060 100%); 
+    background: -moz-linear-gradient(0deg, #36146a 0%, #9A0A65 50%, #ff0060 100%);
     background: -webkit-gradient(linear, left top, right top, color-stop(0%, #36146a), color-stop(50%, #9A0A65), color-stop(100%, #ff0060));
     background: -webkit-linear-gradient(0deg, #36146a 0%, #9A0A65 50%, #ff0060 100%);
-    background: -o-linear-gradient(0deg, #36146a 0%, #9A0A65 50%, #ff0060 100%); 
-    background: -ms-linear-gradient(0deg, #36146a 0%, #9A0A65 50%, #ff0060 100%); 
+    background: -o-linear-gradient(0deg, #36146a 0%, #9A0A65 50%, #ff0060 100%);
+    background: -ms-linear-gradient(0deg, #36146a 0%, #9A0A65 50%, #ff0060 100%);
     background: linear-gradient(90deg, #36146a 0%, #9A0A65 50%, #ff0060 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#36146a', endColorstr='#ff0060',GradientType=1 ); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#36146a', endColorstr='#ff0060',GradientType=1 );
 }
 .abcontentT{
     text-align: center;
@@ -374,21 +374,21 @@
     right: 0;
     background: -moz-linear-gradient(359deg, #ff00de 0%, #FF696F 50%, #ffd200 100%);
     background: -webkit-gradient(linear, left top, right top, color-stop(0%, #ff00de), color-stop(50%, #FF696F), color-stop(100%, #ffd200));
-    background: -webkit-linear-gradient(359deg, #ff00de 0%, #FF696F 50%, #ffd200 100%); 
+    background: -webkit-linear-gradient(359deg, #ff00de 0%, #FF696F 50%, #ffd200 100%);
     background: -o-linear-gradient(359deg, #ff00de 0%, #FF696F 50%, #ffd200 100%);
     background: -ms-linear-gradient(359deg, #ff00de 0%, #FF696F 50%, #ffd200 100%);
     background: linear-gradient(91deg, #ff00de 0%, #FF696F 50%, #ffd200 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff00de', endColorstr='#ffd200',GradientType=1 ); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff00de', endColorstr='#ffd200',GradientType=1 );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-shadow: 13px 16px 27px rgba(0, 0, 0, .11);
-    font-size: 159px;
+    font-size: 90px !important;
     text-align: center;
     z-index: 1;
 }
 .aboutBottom{
     padding-top: 124px;
-    padding-bottom: 228px;
+    padding-bottom: 130px;
 }
 .abcontentB{
     padding: 0 100px;
@@ -528,7 +528,7 @@
 [05] WHAT WE DO
 =========================================================================*/
 .whatwe{
-    background: url(../images/bg/2.jpg) no-repeat scroll center center/cover;
+    background: url(../images/bg/8.jpg) no-repeat scroll center center/cover;
     padding-top: 253px;
     padding-bottom: 223px;
 }
@@ -625,7 +625,7 @@
     background: rgba(0, 0, 0, .2);
     content: '';
 }
-#workCarousel .slick-prev, 
+#workCarousel .slick-prev,
 #workCarousel .slick-next {
     background: #000000;
     border-radius: 50%;
@@ -643,11 +643,11 @@
     -o-transition: all 300ms ease;
     transition: all 300ms ease;
 }
-#workCarousel .slick-prev:hover, 
+#workCarousel .slick-prev:hover,
 #workCarousel .slick-next:hover{
     background: #fd0060;
 }
-#workCarousel .slick-prev i, 
+#workCarousel .slick-prev i,
 #workCarousel .slick-next i{
     line-height: 60px;
     font-size: 28px;
@@ -814,7 +814,7 @@
     transition: all 300ms ease;
 }
 .singleClient img:hover{
-    opacity: 1; 
+    opacity: 1;
 }
 /*=======================================================================
 [10] OUR BLOG
@@ -828,7 +828,7 @@
     margin: 0 7.5px;
 }
 .blogDec{
-    padding: 61px 30px 45px 41px;   
+    padding: 61px 30px 45px 41px;
 }
 .blogDate{
     color: #fd0060;
@@ -924,7 +924,7 @@
     letter-spacing: 2.8px;
     margin: 0 0 17px;
     text-transform: uppercase;
-    line-height: .8;
+    line-height: 1.8;
 }
 .sayDec p:last-of-type{
     margin-bottom: 70px;
@@ -1134,7 +1134,7 @@
 /*=======================================================================
 [14] SUBSCRIPTION POPUP
 =========================================================================*/
-.subscriptionSuccess, 
+.subscriptionSuccess,
 .contactSuccess{
     width: 100%;
     height: 100%;
@@ -1145,7 +1145,7 @@
     background: rgba(0, 0, 0, .95);
     display: none;
 }
-.subsNotice, 
+.subsNotice,
 .consNotice{
     width: 100%;
     height: 190px;
@@ -1170,7 +1170,7 @@
     width: 110px;
     padding: 27px 0;
 }
-.subsNotice p, 
+.subsNotice p,
 .consNotice p{
     color: #fff;
     font-size: 30px;
@@ -1475,7 +1475,7 @@
 .slider2 .tp-rightarrow.default:hover.round:after{
     color: #fb0060;
 }
-.slider2 .tparrows.default.round.hidearrows, 
+.slider2 .tparrows.default.round.hidearrows,
 .slider2 .tp-bullets.simplebullets.hidebullets {
     display: block !important;
     opacity: 1 !important;
@@ -1714,9 +1714,9 @@
     font-weight: 600;
     line-height: .8;
     cursor: pointer;
-    -webkit-user-select: none; 
-    -moz-user-select: none;    
-    -ms-user-select: none;     
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
     user-select: none;
     -webkit-transition: all 300ms ease;
     -moz-transition: all 300ms ease;
@@ -1828,7 +1828,7 @@
     text-transform: uppercase;
 }
 .BdContent h6 a{
-    color: #fa0060; 
+    color: #fa0060;
 }
 .BdContent h6 a:hover{
     color: #fff;
@@ -2146,8 +2146,8 @@
 .comReplyTitle{
     margin-bottom: 46px;
 }
-.commentForm input[type="text"], 
-.commentForm input[type="email"], 
+.commentForm input[type="text"],
+.commentForm input[type="email"],
 .commentForm textarea {
     border-color: -moz-use-text-color -moz-use-text-color #000;
     border-style: none none solid;
@@ -2414,5 +2414,3 @@
 .footer2 .newsletter input[type="email"]{
     border-color: #313131
 }
-
-
