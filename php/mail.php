@@ -7,8 +7,8 @@ $con_company       = $_POST['con_company'];
 $con_msg       = $_POST['con_msg'];
 
 
-$to = 'expjoomworker@gmail.com';
-$subject = 'Bespoke User Query';
+$to = 'akshay5993@gmail.com';
+$subject = 'Chase User Query';
 
 $message = '<strong>Name : </strong>' . $con_name . '<br/><br/>';
 $message .= '<strong>Phone : </strong>' . $con_phone . '<br/><br/>';

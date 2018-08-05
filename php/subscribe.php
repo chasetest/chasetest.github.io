@@ -2,8 +2,8 @@
 $sub_email 	= $_POST['sub_email'];
 
 
-$to = 'expjoomworker@gmail.com';
-$subject = 'Bespoke Subscription';
+$to = 'akshay5993@gmail.com';
+$subject = 'Chase Subscription';
 
 $message = 'Subscription Request Received From Bespoke:<br/><br/>';
 $message .= '<strong>Email : </strong>'.$sub_email.'<br/><br/>';

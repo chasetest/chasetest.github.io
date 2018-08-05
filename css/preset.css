@@ -1,9 +1,9 @@
 /*
-  Theme Name: Bespoke - Creative One Page HTML5 Template 
+  Theme Name: Bespoke - Creative One Page HTML5 Template
   Theme URL: http://nasfactor.com/themes/bespoke/
   Author: nasirwd
   Author URI: http://nasfactor.com/
-  Description: Bespoke - Creative One Page HTML5 Template 
+  Description: Bespoke - Creative One Page HTML5 Template
   Version: 1.0
 */
 
@@ -23,7 +23,7 @@
     font-weight: 300;
 }
 .normal{
-    font-weight: 400;   
+    font-weight: 400;
 }
 .medium{
     font-weight: 500;
@@ -44,7 +44,7 @@ htm,body{
     font-size: 18px;
     font-weight: 400;
     line-height: 36px;
-} 
+}
 a{
     color: #333333;
     transition: all 300ms ease;
@@ -90,7 +90,7 @@ h1 span, h2 span, h3 span, h4 span, h5 span, h6 span{
     color: #fedd00
 }
 .magenta{
-    color: #fd0060;
+    color: #F4CF33;
 }
 h1.lead{
     font-size: 160px;
@@ -163,13 +163,13 @@ h6{
     height: auto;
 }
 blockquote {
-    border-left: 2px solid #fd0060;
+    border-left: 2px solid #12B3AE;
     margin: 60px 0 50px;
     padding: 0 65px 0 20px;
 }
 blockquote p{
     font-size: 22px;
-    color: #000000;   
+    color: #000000;
 }
 
 @media (min-width: 1440px) {
@@ -258,12 +258,7 @@ blockquote p{
 [05] TEMPLATE BUTTON STYLE
 =========================================================================*/
 .bes_button{
-    background: -moz-linear-gradient(358deg, #36146a 35%, #581068 46%, #640E67 50%, #ff0060 100%);
-    background: -webkit-gradient(linear, left top, right top, color-stop(35%, #36146a), color-stop(46%, #581068), color-stop(50%, #640E67), color-stop(100%, #ff0060)); /* safari4+,chrome */
-    background: -webkit-linear-gradient(358deg, #36146a 35%, #581068 46%, #640E67 50%, #ff0060 100%);
-    background: -o-linear-gradient(358deg, #36146a 35%, #581068 46%, #640E67 50%, #ff0060 100%);
-    background: -ms-linear-gradient(358deg, #36146a 35%, #581068 46%, #640E67 50%, #ff0060 100%);
-    background: linear-gradient(92deg, #36146a 35%, #581068 46%, #640E67 50%, #ff0060 100%);
+    background-image: linear-gradient(90deg, #ED1C53 0%, #F4CF33 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#36146a', endColorstr='#ff0060',GradientType=1 );
     height: 50px;
     border-radius: 30px;
@@ -283,13 +278,8 @@ blockquote p{
     top: 2px;
 }
 .bes_button:hover{
-    background: -moz-linear-gradient(0deg, #fd0060 0%, #9B0A65 50%, #3a146a 100%);
-    background: -webkit-gradient(linear, left top, right top, color-stop(0%, #fd0060), color-stop(50%, #9B0A65), color-stop(100%, #3a146a));
-    background: -webkit-linear-gradient(0deg, #fd0060 0%, #9B0A65 50%, #3a146a 100%);
-    background: -o-linear-gradient(0deg, #fd0060 0%, #9B0A65 50%, #3a146a 100%); 
-    background: -ms-linear-gradient(0deg, #fd0060 0%, #9B0A65 50%, #3a146a 100%); 
-    background: linear-gradient(90deg, #fd0060 0%, #9B0A65 50%, #3a146a 100%); 
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fd0060', endColorstr='#3a146a',GradientType=1 );
+    background-image: linear-gradient(90deg, #F4CF33 0%, #ED1C53 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#12B3AE', endColorstr='#3a146a',GradientType=1 );
     color: #fff;
 }
 .bes_button2{

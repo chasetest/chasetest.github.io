@@ -1,9 +1,9 @@
 /*
-  Theme Name: Bespoke - Creative One Page HTML5 Template 
+  Theme Name: Bespoke - Creative One Page HTML5 Template
   Theme URL: http://nasfactor.com/themes/bespoke/
   Author: nasirwd
   Author URI: http://nasfactor.com/
-  Description: Bespoke - Creative One Page HTML5 Template 
+  Description: Bespoke - Creative One Page HTML5 Template
   Version: 1.0
 */
 
@@ -18,7 +18,7 @@
 @media(min-width: 1460px){
     .mainMenu ul li:hover ul.sub-menu{
         top: 55px;
-    } 
+    }
 }
 
 @media(min-width: 1280px) and (max-width:1440px){
@@ -45,7 +45,7 @@
         position: relative;
     }
     .testmonial::before {
-        background: #fd0060;
+        background: #ED1C53;
         left: -174px;
         width: 150px;
     }
@@ -387,7 +387,7 @@
 }
 
 @media(min-width: 320px) and (max-width: 767px){
-    
+
     .header,
     .isSticky.fixedHeader{
         padding: 20px 15px;
@@ -764,7 +764,7 @@
     }
     .contactForm.noPaddingLeft.noPaddingRight {
         padding-left: 15px !important;
-        padding-right: 15px !important; 
+        padding-right: 15px !important;
     }
     .blogDescriptionTop {
         margin-bottom: 0;
@@ -903,9 +903,9 @@
         width: 100px;
         height: auto;
     }
-    .parallaxOne, 
-    .parallaxTwo, 
-    .parallaxThree, 
+    .parallaxOne,
+    .parallaxTwo,
+    .parallaxThree,
     .parallaxFour {
         height: 600px;
         position: relative;
@@ -943,5 +943,3 @@
         top: -67px;
     }
 }*/
-
-
