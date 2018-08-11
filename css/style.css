@@ -453,9 +453,12 @@
 [04] TEAM
 =========================================================================*/
 .team{
+    margin-top: 100px;
     padding-top: 89px;
     padding-bottom: 0px;
-    background: #fafafa;
+    position: relative;
+    width: 100%;
+    background: url(../images/bg/9.jpg) no-repeat scroll center center/cover;
 }
 .epr200{
     padding-right: 400px;
@@ -465,7 +468,7 @@
 }
 .singleTestm p{
     font-size: 30px;
-    color: #000000;
+    color: #ffffff;
     font-weight: 300;
     line-height: 50px;
     margin-bottom:21px;
@@ -510,11 +513,11 @@
 }
 .teamDeg{}
 .teamDeg h4{
-    color: #000;
+    color: #ffffff;
     margin: 0 0 4px;
 }
 .teamDeg p{
-    color: #000000;
+    color: #ffffff;
     font-size: 16px;
     font-weight: 400;
     line-height: .8;
@@ -888,11 +891,15 @@
 =========================================================================*/
 .sayhello{
     padding: 100px 0 52px;
-    background: #fafafa;
+    position: relative;
+    width: 100%;
+    background: url(../images/bg/map.jpg) no-repeat scroll center center/cover;
 }
 .sayThumb{
     position: relative;
     margin-bottom: 48px;
+    border: 4px solid #ffffff;
+    border-radius: 10px;
 }
 .sayThumb h3{
     position: absolute;
